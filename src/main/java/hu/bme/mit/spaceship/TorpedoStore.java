@@ -52,7 +52,7 @@ public class TorpedoStore {
 
     return success;
   }
-
+  //Sorry for not commenting enough
   public boolean isEmpty(){
     return this.torpedoCount <= 0;
   }
